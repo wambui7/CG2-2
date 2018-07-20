@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\shiko\source\repos\trial.cs" Link="trial.cs" />
+  </ItemGroup>
+
 </Project>
